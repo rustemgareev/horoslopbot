@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "horoslopbot",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "353f09ac-3502-480a-abb6-0354c62a53e6",
+			"database_name": "horoslopbot"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
